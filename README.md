@@ -2,7 +2,7 @@
 
 
 
-#cmd
+# use cmd
 
 
 rm -rf Random-Cloning
